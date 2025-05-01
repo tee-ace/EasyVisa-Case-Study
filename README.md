@@ -42,7 +42,7 @@ This project aims to predict the outcome of U.S. visa applications (Certified or
 
 ## 📂 Files
 
-- `EasyVisa_Low_Code_1.ipynb` – Main analysis notebook
+- `EasyVisa_notebook.ipynb` – Main analysis notebook
 - `EasyVisa.csv` – Dataset
 - `presentation/` – Slides and visuals
 - `models/` – (Optional) Saved models and metrics
