@@ -56,4 +56,4 @@ This project aims to predict the outcome of U.S. visa applications (Certified or
 ## 📧 Contact
 
 Tade Odunlami  
-[LinkedIn](https://www.linkedin.com/in/your-link) | [Email](mailto:your.email@example.com)
+[LinkedIn](https://www.linkedin.com/in/tadeodunlami) | [Email](mailto:tadeodunlami@gmail.com)
